@@ -1,2 +1,9 @@
 # CRUD
-A simple CRUD operation in MERN
+A simple CRUD operation in MERN :- 
+
+
+
+Contains two files .
+
+
+
